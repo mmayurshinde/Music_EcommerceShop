@@ -6,6 +6,9 @@ ruby "3.2.2"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.5"
 
+
+
+
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
@@ -35,6 +38,8 @@ gem 'gravatar_image_tag', '~> 1.2'
 gem 'carrierwave'
 gem 'mini_magick'
 gem 'sassc'
+gem 'binding_of_caller'
+
 
 
 # Use Redis adapter to run Action Cable in production

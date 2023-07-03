@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  instrument: MyString
+  : one
+  cart: MyString
+  : one
+
+two:
+  instrument: MyString
+  : two
+  cart: MyString
+  : two
